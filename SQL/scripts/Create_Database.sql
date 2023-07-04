@@ -1,5 +1,5 @@
 -- Project: Payroll Management System creation on MySQL
-
+-- Data from https://controllerdata.lacity.org/Payroll/City-Employee-Payroll-Current-/g9h8-fvhu
 -- Create databse with appropriate name
 DROP DATABASE Payroll;
 CREATE DATABASE Payroll;
